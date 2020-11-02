@@ -108,3 +108,11 @@ ul.b {
 #grad1 {
     background-image: linear-gradient(to right, rgb(0, 162, 255), rgb(39, 133, 139));
 }
+
+#grad2 {
+    background-image: linear-gradient(to right, rgb(240, 243, 202), rgb(238, 245, 146));
+}
+
+#grad3 {
+    background-image: linear-gradient(to right, rgb(210, 245, 228), rgb(137, 235, 187));
+}
